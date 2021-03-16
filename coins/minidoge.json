@@ -4,4 +4,5 @@
     "algorithm": "scrypt",
     "peermagic": "a2e1eff0",
     "peerMagicTestnet": "0x0x0x0x",
+    "hasGetInfo":"1"
 }
