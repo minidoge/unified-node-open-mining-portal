@@ -1,0 +1,7 @@
+{
+    "name": "Minidoge",
+    "symbol": "mINU",
+    "algorithm": "scrypt"
+    "peermagic": "a2e1eff0"
+    "peerMagicTestnet": "0x0x0x0x",
+}
